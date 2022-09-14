@@ -1,14 +1,14 @@
 # test
 
 
-##Apartado A
+# Apartado A
 
 blabla
 
-- Si
+* Si
 * No
-3. Nada
+* Nada
 
-##Apartado B
+# Apartado B
 
 blabla

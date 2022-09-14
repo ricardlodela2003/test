@@ -5,8 +5,8 @@
 
 blabla
 
-1. Si
-2. No
+- Si
+* No
 3. Nada
 
 ##Apartado B

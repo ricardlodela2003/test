@@ -13,4 +13,4 @@ blabla
 
 blabla
 
-img.png
+(/images/img.png)

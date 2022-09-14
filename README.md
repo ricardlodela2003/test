@@ -12,3 +12,5 @@ blabla
 ## Apartado B
 
 blabla
+
+img.png

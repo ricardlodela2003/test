@@ -1,7 +1,7 @@
-# test
+# Test
 
 
-# Apartado A
+## Apartado A
 
 blabla
 
@@ -9,6 +9,6 @@ blabla
 * No
 * Nada
 
-# Apartado B
+## Apartado B
 
 blabla
